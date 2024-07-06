@@ -1,0 +1,24 @@
+.getRoles {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 300px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .getRoles h2 {
+    margin-bottom: 10px;
+  }
+  
+  .getRoles ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .getRoles li {
+    background-color: #e0e0e0;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 4px;
+  }
+  

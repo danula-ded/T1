@@ -1,0 +1,12 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.components {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+}
